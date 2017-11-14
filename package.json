@@ -1,0 +1,19 @@
+{
+  "name": "openshift-docs",
+  "version": "1.0.0",
+  "description": "= OpenShift Documentation Welcome to the OpenShift documentation GitHub repository that contains the source files for the technical documentation for the following products:",
+  "main": "index-community.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finp/openshift-docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finp/openshift-docs/issues"
+  },
+  "homepage": "https://github.com/finp/openshift-docs#readme"
+}
