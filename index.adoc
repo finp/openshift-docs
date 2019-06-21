@@ -1,0 +1,3 @@
+= OpenShift 
+
+This is just a demo, see the link:docs.openshift.comh[OpenShift Docs].

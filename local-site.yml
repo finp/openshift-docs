@@ -1,0 +1,22 @@
+site:
+  title: OpenShift Docs
+  url: https://docs.openshift.com
+  start_page: openshift::index 
+content:
+  sources:
+  - url: .
+    start_path: target
+    branches: HEAD
+ui:
+  bundle:
+    url: ./ui-bundle.zip
+
+
+asciidoc:
+  attributes:
+    product-title: 'OpenShift'
+    product-author: 'OpenShiftDocs'
+    product-version: '4.2'
+
+
+    

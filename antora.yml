@@ -1,0 +1,6 @@
+name: openshift
+title: OpenShift Docs
+version: 'latest'
+start_ROOT: ROOT:welcome/index.adoc
+nav:
+- modules/ROOT/nav.adoc

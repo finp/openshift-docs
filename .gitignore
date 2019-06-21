@@ -13,3 +13,6 @@ dev_guide/builds/images/chained-build.png.cache
 .gem
 bin
 commercial_package
+target/
+build/
+node_modules/
