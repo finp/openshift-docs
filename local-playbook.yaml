@@ -1,0 +1,23 @@
+site:
+  title: OpenShift Docs
+  start_page: openshift::index.adoc 
+content:
+  sources: 
+  - url: .
+    branches: HEAD
+    start_path: antora
+ui: 
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+
+asciidoc:
+  attributes:
+    hide-uri-scheme: ''
+    page-team: Vikram
+    table-caption: ~
+    listing-caption: Snippet@
+    page-pagination: true
+    experimental: true
+    context: true
+    product-title: OpenShift
